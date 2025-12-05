@@ -9,6 +9,7 @@
   ![YOLOv3](https://img.shields.io/badge/YOLO-v3-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
+<img width="614" height="609" alt="스크린샷 2025-12-05 오후 4 37 52" src="https://github.com/user-attachments/assets/0e8daa3d-3f9d-4daf-aade-abc16e35468b" />
 
 ---
 
