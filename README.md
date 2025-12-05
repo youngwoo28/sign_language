@@ -1,8 +1,6 @@
 # Sign Language: 청각장애인을 위한 실시간 수어 양방향 소통 서비스
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/79898245/154721052-6da910b3-aba1-4766-b4e8-c71841a43b94.png" width="100%" alt="Project Banner">
-  <br><br>
   
   ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
