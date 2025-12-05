@@ -83,7 +83,7 @@
 
 ---
 
-## 🚀 트러블 슈팅 (Troubleshooting)
+## 트러블 슈팅 (Troubleshooting)
 
 ### Issue 1. 하드웨어 한계 극복 및 범용성 확보
 *   **Problem**: 초기 '립모션(Leap Motion)' 센서 사용 시, 손의 위치나 크기에 따라 인식률 편차가 심하고 별도 장비가 필요하다는 단점 발생.
