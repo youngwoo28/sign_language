@@ -89,8 +89,11 @@
 
 ## 실행 방법 (How to Run)
 
-터미널에서 아래 명령어를 순서대로 입력하세요.
 
+<details>
+<summary><strong>Quickstart / 실행 가이드 펼치기</strong></summary>
+  
+  터미널에서 아래 명령어를 순서대로 입력하세요.
 ```bash
 # 1. 저장소 복제
 git clone [https://github.com/youngwoo28/SonDam.git](https://github.com/youngwoo28/SonDam.git)
@@ -103,6 +106,8 @@ pnpm install
 # 3. 개발 서버 실행
 npm run dev
 ```
+
+</details>
 
 개발자 (Developer)
 Youngwoo
