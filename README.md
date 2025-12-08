@@ -6,7 +6,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js_14-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
 
 
-<img width="1710" height="841" alt="스크린샷 2025-12-08 오후 7 54 38" src="" />
 
 <br>
 
@@ -18,7 +17,7 @@
 
 | **3D 수어 아바타** | **커뮤니티 & 로그인** |
 | :---: | :---: |
-| ![Avatar](./public/3d-avatar-sign-language.jpg) | ![Community](./public/family-sign-language.jpg) |
+| ![Avatar](https://github.com/user-attachments/assets/e76e606e-53ea-41e6-b188-3d46303d0835) | ![Community](https://github.com/user-attachments/assets/56333c92-5569-4d17-bd9c-7b527c1559d5) |
 | *텍스트를 수어로 표현하는 3D 모델* | *사용자 간 소통 공간 및 인증* |
 
 > *※ 현재 상황이며, 개발 진행 상황에 따라 업데이트됩니다.*
